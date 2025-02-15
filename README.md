@@ -1,14 +1,5 @@
 # UMI-Dobot: 通用机械臂操作接口  
 
-<div align="center">  
-<img src="assets/logo.png" width="200px"/>  
-
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](your_project_page)  
-[![Documentation](https://img.shields.io/badge/Documentation-green)](your_docs_page)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-
-</div>  
-
 本项目是对 Berkeley 的 [UMI (Universal Manipulation Interface)](https://umi-gripper.github.io/) 框架的工业级复现与改进，旨在解决工业机械臂操作任务中的数据收集难、模型训练复杂等问题。通过低成本的硬件方案和高效的算法框架，我们实现了从数据采集到模型部署的全流程打通。  
 
 ## 主要特点  
